@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TuskyLLM/static/css/main.ff02f4b5.css",
-    "main.js": "/TuskyLLM/static/js/main.d127b3da.js",
-    "static/js/453.ed3810f9.chunk.js": "/TuskyLLM/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/TuskyLLM/index.html",
-    "main.ff02f4b5.css.map": "/TuskyLLM/static/css/main.ff02f4b5.css.map",
-    "main.d127b3da.js.map": "/TuskyLLM/static/js/main.d127b3da.js.map",
-    "453.ed3810f9.chunk.js.map": "/TuskyLLM/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/static/css/main.ff02f4b5.css",
+    "main.js": "/static/js/main.82483b89.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/index.html",
+    "main.ff02f4b5.css.map": "/static/css/main.ff02f4b5.css.map",
+    "main.82483b89.js.map": "/static/js/main.82483b89.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.d127b3da.js"
+    "static/js/main.82483b89.js"
   ]
 }
