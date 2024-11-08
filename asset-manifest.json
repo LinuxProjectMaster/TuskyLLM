@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TuskyLLM/static/css/main.ff02f4b5.css",
-    "main.js": "/TuskyLLM/static/js/main.dffbbc93.js",
+    "main.js": "/TuskyLLM/static/js/main.237efa66.js",
     "static/js/453.ed3810f9.chunk.js": "/TuskyLLM/static/js/453.ed3810f9.chunk.js",
     "index.html": "/TuskyLLM/index.html",
     "main.ff02f4b5.css.map": "/TuskyLLM/static/css/main.ff02f4b5.css.map",
-    "main.dffbbc93.js.map": "/TuskyLLM/static/js/main.dffbbc93.js.map",
+    "main.237efa66.js.map": "/TuskyLLM/static/js/main.237efa66.js.map",
     "453.ed3810f9.chunk.js.map": "/TuskyLLM/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.dffbbc93.js"
+    "static/js/main.237efa66.js"
   ]
 }
