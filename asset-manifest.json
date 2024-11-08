@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/linuxprojectmaster.github.io/TuskyLLM/static/css/main.ff02f4b5.css",
-    "main.js": "/linuxprojectmaster.github.io/TuskyLLM/static/js/main.c9fe0b5c.js",
-    "static/js/453.ed3810f9.chunk.js": "/linuxprojectmaster.github.io/TuskyLLM/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/linuxprojectmaster.github.io/TuskyLLM/index.html",
-    "main.ff02f4b5.css.map": "/linuxprojectmaster.github.io/TuskyLLM/static/css/main.ff02f4b5.css.map",
-    "main.c9fe0b5c.js.map": "/linuxprojectmaster.github.io/TuskyLLM/static/js/main.c9fe0b5c.js.map",
-    "453.ed3810f9.chunk.js.map": "/linuxprojectmaster.github.io/TuskyLLM/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/TuskyLLM/static/css/main.ff02f4b5.css",
+    "main.js": "/TuskyLLM/static/js/main.54d38a51.js",
+    "static/js/453.ed3810f9.chunk.js": "/TuskyLLM/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TuskyLLM/index.html",
+    "main.ff02f4b5.css.map": "/TuskyLLM/static/css/main.ff02f4b5.css.map",
+    "main.54d38a51.js.map": "/TuskyLLM/static/js/main.54d38a51.js.map",
+    "453.ed3810f9.chunk.js.map": "/TuskyLLM/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.c9fe0b5c.js"
+    "static/js/main.54d38a51.js"
   ]
 }
